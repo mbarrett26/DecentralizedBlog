@@ -21,11 +21,11 @@ To get started with the app, follow these steps:
 
 Open the terminal and use the git clone command to download the remote GitHub repository to your computer:
 ```
-git clone https://github.com/Hacault14/DistributedProject.git
+git clone https://github.com/Mithusan/DecentralizedBlog.git
 ```
-It will create a new folder with the same name as the GitHub repository "DistributedProject". All the project files and git data will be cloned into it. After cloning complete the change directories into that new folder:
+It will create a new folder with the same name as the GitHub repository "DecentralizedBlog". All the project files and git data will be cloned into it. After cloning complete the change directories into that new folder:
 ```
-cd DistributedProject
+cd DecentralizedBlog
 ```
 
 ## Usage
