@@ -62,12 +62,12 @@ To access the application use the following URL: http://localhost:8080. You can 
 Use the same process as above to generate a Jar file or use the provided [file](/target/spring-boot-blog-app-0.0.1-SNAPSHOT.jar).
 Using the included docker file, run the following command:  
 ```
-docker build -f Dockerfile -t blogApp .
+docker build -f Dockerfile -t blogapp .
 ```
 Feel free to change the target name or use our own docker file, the process should be similar. 
 After the container is built, run the docker container using the following command :
 ```
-docker run -p 8080:8080 -t --name blogApp blogApp
+docker run -p 8080:8080 -t --name blogapp blogapp
 ```
 To access the application use the following URL: http://localhost:8080. You can change this in the application.properties file, you would then need to change it in the Dockerfile as well as in the above command.
 
