@@ -78,6 +78,11 @@ In the application.properties file, add the following command, replacing <your_i
 server.address=<your_ip>
 ```
 
+### Docker Setup
+![image](https://github.com/Mithusan/DecentralizedBlog/assets/115104826/81718250-183c-4c2e-b90b-60994eca08b9)
+![gas](https://github.com/Mithusan/DecentralizedBlog/assets/115104826/cd76e832-22df-492e-adde-aa52d9afaf77)
+
+
 ## Features
 
 ### Decentralized Blogging
