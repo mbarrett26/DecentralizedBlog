@@ -50,7 +50,7 @@ Or using your installed maven version:
 ```
 mvn clean package
 ```  
-This should create a Jar file in the target folder labeled "spring-boot-blog-app-0.0.1-SNAPSHOT.jar", or use the provided [file](/target/spring-boot-blog-app-0.0.1-SNAPSHOT.).
+This should create a Jar file in the target folder labeled "spring-boot-blog-app-0.0.1-SNAPSHOT.jar", or use the provided [file](/target/spring-boot-blog-app-0.0.1-SNAPSHOT.jar).
 
 Then in the terminal run the following command in the folder where the jar is contained, and the application should run:
 ```
@@ -59,7 +59,7 @@ java -jar spring-boot-blog-app-0.0.1-SNAPSHOT.jar
 To access the application use the following URL: http://localhost:8080. You can change this in the application.properties file.
 
 ### Here's how you can run the project via Docker:
-Use the same process as above to generate a Jar file or use the provided [file](/target/spring-boot-blog-app-0.0.1-SNAPSHOT.).
+Use the same process as above to generate a Jar file or use the provided [file](/target/spring-boot-blog-app-0.0.1-SNAPSHOT.jar).
 Using the included docker file, run the following command:  
 ```
 docker build -f Dockerfile -t blogApp .
