@@ -1,5 +1,5 @@
 # Distributed Project
-Welcome to the Decentralized Blog Application developed by Group 1, consisting of Banujan Sutheswaran, Mithusan Arulampalam, Tal Marianovski, Nathan Hacault, and Micheal Barrett.
+Welcome to the Decentralized Blog Application developed by Group 1, consisting of Banujan Sutheswaran, Mithusan Arulampalam, Tal Marianovski, Nathan Hacault, and Michael Barrett.
 
 
 ### Key Objectives
